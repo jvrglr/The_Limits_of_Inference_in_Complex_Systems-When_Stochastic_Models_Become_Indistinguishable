@@ -1,4 +1,4 @@
-# The Limits of Inference in Complex Systems: When Stochastic Models Become Indistinguishable
+# The Limits of Inference in Complex Systems: \\When Stochastic Models Become Indistinguishable
 Codes and data The Limits of Inference in Complex Systems: \\     When Stochastic Models Become Indistinguishable
 
 ## Code structure
