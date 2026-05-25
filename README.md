@@ -8,6 +8,7 @@ Fortran implementation of bridge change-of-measure (BCM) and path-integral (PI) 
 * **M_subroutines.f90**: Main script containing codes for BCM and PI inference methods.
 * **M_functions.f90**: Mathematical functions used in the main codes.
 * **dranxor.f90**: Pseudo random number generator.
+* **GH_draw_trajectory_on_file.f90**: Draw trajectory for selected model and save it to a file (Fig. 4a).
 
 ## License
 This project is shared for **academic and research purposes**. It is free to use, redistribute, modify, and share for research purposes, provided that proper credit is given to the authors through citation of [1].
