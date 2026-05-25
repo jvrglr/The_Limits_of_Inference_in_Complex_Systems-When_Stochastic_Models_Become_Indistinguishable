@@ -29,11 +29,11 @@ This project is shared for **academic and research purposes**.
 The codes are free to use, redistribute, modify, and share for research purposes, provided that proper credit is given to the authors through citation of [1].
 
 Data rights belong to the parties responsible for data acquisition. Any use or distribution of the data should be accompanied by citation of the original data sources (see below) and discussed with the parties responsible for data acquisition.
-**Optical twizzers data:** Miguel Ibañez García and Raúl A. Rica
 
-## Reference
+**Optical twizzers data:** Miguel Ibañez García and Raúl A. Rica, University of Granada. Ref. [2]
 
-[1] Aguilar J., Muñoz M.A., Azaele S. Phys. Rev. X (2026). 10.1103/tmkr-9kl2
+## Citation
+
 ```
 @article{tmkr-9kl2,
   title = {Limits of inference in complex systems: When stochastic models become indistinguishable},
@@ -47,3 +47,9 @@ Data rights belong to the parties responsible for data acquisition. Any use or d
   url = {https://link.aps.org/doi/10.1103/tmkr-9kl2}
 }
 ```
+
+## Reference
+
+[1] Aguilar J., Muñoz M.A., Azaele S. Phys. Rev. X (2026). 10.1103/tmkr-9kl2
+
+[2] Ibáñez, M., Dieball, C., Lasanta, A. et al. Nat. Phys. 20, 135–141 (2024). https://doi.org/10.1038/s41567-023-02269-z
