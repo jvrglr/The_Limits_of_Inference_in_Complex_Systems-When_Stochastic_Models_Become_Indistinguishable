@@ -20,8 +20,16 @@ Fortran implementation of bridge change-of-measure (BCM) and path-integral (PI) 
 * **GH_model_distinguishability_EN_DE_bridge_CM**: Generate synthetic data and compute model probability using BCM method (Fig. 5).
 * **GH_model_distinguishability_EN_DE_PI.f90**: Generate synthetic data and compute model probability using BCM method (Fig. 5).
 
+## Data
+* **GH_twizzers.dat** Optical Twizzers data (see License for use). 
+
 ## License
-This project is shared for **academic and research purposes**. It is free to use, redistribute, modify, and share for research purposes, provided that proper credit is given to the authors through citation of [1].
+This project is shared for **academic and research purposes**. 
+
+The codes are free to use, redistribute, modify, and share for research purposes, provided that proper credit is given to the authors through citation of [1].
+
+Data rights belong to the parties responsible for data acquisition. Any use or distribution of the data should be accompanied by citation of the original data sources (see below) and discussed with the parties responsible for data acquisition.
+**Optical twizzers data:** Miguel Ibañez García and Raúl A. Rica
 
 ## Reference
 
