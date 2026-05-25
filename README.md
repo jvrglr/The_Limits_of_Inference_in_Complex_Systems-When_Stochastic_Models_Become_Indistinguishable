@@ -1,5 +1,5 @@
-# The Limits of Inference in Complex Systems: \\When Stochastic Models Become Indistinguishable
-Codes and data The Limits of Inference in Complex Systems: \\     When Stochastic Models Become Indistinguishable
+# The Limits of Inference in Complex Systems: When Stochastic Models Become Indistinguishable
+Codes and data The Limits of Inference in Complex Systems: When Stochastic Models Become Indistinguishable
 
 ## Code structure
 * **M_declarations.f90**: Define public variables $x$, $y$, $t$, $D$, $r$. $x$, $y$, and $t$ are used in functions and subroutines to characterize the state of the system. $D$ and $r$ represent, respectively, the parameters $D$ and $\rho$ in our text (see License for reference).
