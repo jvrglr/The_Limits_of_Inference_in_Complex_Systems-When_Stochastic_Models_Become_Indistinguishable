@@ -3,6 +3,13 @@ Fortran implementation of bridge change-of-measure (BCM) and path-integral (PI) 
 
 **A Python implementation of these methods is under construction and will be referenced here.**
 
+## Models abbreviations
+* OU: Ornstein-Uhlenbeck process (Eq.(1) in Ref.[1]).
+* GGM: Generalized Gamma Model (Eq.(2) in Ref.[1]).
+* DE: DEmographic model (Eq.(2) in Ref.[1] with $\theta=0$).
+* EN: ENvironmental model (Eq.(2) in Ref.[1] with $\theta=1$).
+* CP: Contact process (Eq.(A1) in Ref.[1]).
+  
 ## Code structure
 * **M_declarations.f90**: Define public variables $x$, $t$, $D$, $k$ and $\mu$ to be used in the rest of modules. $x$, and $t$ are used in functions and subroutines to characterize the process at time $t$. $D$, $k$ and $\mu$ are parameters of the models (see Eqs. (1) and (2) in Ref. [1]).
 * **M_subroutines.f90**: Main script containing codes for BCM and PI inference methods.
