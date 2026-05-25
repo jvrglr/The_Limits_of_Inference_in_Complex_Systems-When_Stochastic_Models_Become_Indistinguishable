@@ -16,6 +16,7 @@ Fortran implementation of bridge change-of-measure (BCM) and path-integral (PI) 
 * **M_functions.f90**: Mathematical functions used in the main codes.
 * **dranxor.f90**: Pseudo random number generator.
 * **GH_draw_trajectory_on_file.f90**: Draw trajectory for selected model and save it to a file (Fig. 4).
+* **GH_estimator_of_propagator_BCM.f90**: Estimate propagator using BCM in one transition (Fig.4)
 * **GH_model_distinguishability_EN_DE_bridge_CM**: Generate synthetic data and compute model probability using BCM method (Fig. 5).
 * **GH_model_distinguishability_EN_DE_PI.f90**: Generate synthetic data and compute model probability using BCM method (Fig. 5).
 
