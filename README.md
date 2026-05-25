@@ -2,16 +2,17 @@
 Codes and data The Limits of Inference in Complex Systems: When Stochastic Models Become Indistinguishable
 
 ## Code structure
-* **M_declarations.f90**: Define public variables $x$, $y$, $t$, $D$, $r$. $x$, $y$, and $t$ are used in functions and subroutines to characterize the state of the system. $D$ and $r$ represent, respectively, the parameters $D$ and $\rho$ in our text (see License for reference).
-* **M_subroutines.f90**: Subroutines like the Milstein method to sample realizations of the process.
-* **M_functions.f90**: Mathematical functions used in the main code.
+* **M_declarations.f90**: Define public variables $x$, $t$, $D$, $k$ and $\mu$ to be used in the rest of modules. $x$, and $t$ are used in functions and subroutines to characterize the process at time $t$. $D$, $k$ and $\mu$ are parameters of the models (see Eqs. (1) and (2) in [1]).
+* **M_subroutines.f90**: Main script with Subroutines subroutines.
+* **M_functions.f90**: Mathematical functions used in the main codes.
 * **dranxor.f90**: Pseudo random number generator.
-* **main_Draw_trajectories.f90**: example of code to generate and save $x$, $y$, and $\theta_W$ for different values of $t$.
 
 ## License
-This project is shared for **academic and research purposes**. It is free to use, redistribute, modify, and share for research purposes, provided that proper credit is given to the authors through citation of: 
+This project is shared for **academic and research purposes**. It is free to use, redistribute, modify, and share for research purposes, provided that proper credit is given to the authors through citation of [1].
 
-Aguilar J., Muñoz M.A., Azaele S. Phys. Rev. X (2026). 10.1103/tmkr-9kl2
+## Reference
+
+[1] Aguilar J., Muñoz M.A., Azaele S. Phys. Rev. X (2026). 10.1103/tmkr-9kl2
 ```
 @article{tmkr-9kl2,
   title = {Limits of inference in complex systems: When stochastic models become indistinguishable},
