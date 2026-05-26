@@ -24,16 +24,21 @@ These codes were used to generate the plots in Ref. [1].
 * **GH_model_distinguishability_on_tweezers_data_w_PI.f90**: Compare models using PI approximation of likelihood in Optical Twizzers data (Fig. 6).
 
 ## Data
-* **GH_twizzers.dat** Optical Twizzers data (see License for use). 
+Data rights belong to the parties responsible for data acquisition. 
+
+Any use or distribution of the data should be accompanied by citation of the original data sources (see below) and discussed with the parties responsible for data acquisition.
+
+* **GH_twizzers.dat** Optical Twizzers data. Miguel Ibañez García and Raúl A. Rica, University of Granada. Ref. [2]
+* **GH_BCI** Barro Colorado Island data. Ref. [3]
 
 ## License
 This project is shared for **academic and research purposes**. 
 
 The codes are free to use, redistribute, modify, and share for research purposes, provided that proper credit is given to the authors through citation of [1].
 
-Data rights belong to the parties responsible for data acquisition. Any use or distribution of the data should be accompanied by citation of the original data sources (see below) and discussed with the parties responsible for data acquisition.
 
-**Optical twizzers data:** Miguel Ibañez García and Raúl A. Rica, University of Granada. Ref. [2]
+
+**Optical twizzers data:** 
 
 ## Citation
 
@@ -56,3 +61,5 @@ Data rights belong to the parties responsible for data acquisition. Any use or d
 [1] Aguilar J., Muñoz M.A., Azaele S. Phys. Rev. X (2026). 10.1103/tmkr-9kl2
 
 [2] Ibáñez, M., Dieball, C., Lasanta, A. et al. Nat. Phys. 20, 135–141 (2024). https://doi.org/10.1038/s41567-023-02269-z
+
+[3] Condit R., Perez, R., Aguilar, S., Lao, S., Foster, R., Hubbell, S.P. (2019). [https://doi.org/10.15146/5xcp-0d46.](https://datadryad.org/dataset/doi:10.15146/5xcp-0d46)
