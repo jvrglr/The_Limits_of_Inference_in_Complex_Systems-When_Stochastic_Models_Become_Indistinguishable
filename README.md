@@ -58,7 +58,7 @@ The codes are free to use, redistribute, modify, and share for research purposes
 
 ## References
 
-[1] Aguilar J., Muñoz M.A., Azaele S. Phys. Rev. X (2026). 10.1103/tmkr-9kl2
+[1] Aguilar J., Muñoz M.A., Azaele S. Phys. Rev. X (2026). [10.1103/tmkr-9kl2](https://doi.org/10.1103/tmkr-9kl2)
 
 [2] M. Ibáñez, C. Dieball, A. Lasanta, A. Godec & R. A. Rica  Nat. Phys. 20, 135–141 (2024).  https://doi.org/10.1038/s41567-023-02269-z
 
