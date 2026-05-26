@@ -1,5 +1,7 @@
 # The Limits of Inference in Complex Systems: When Stochastic Models Become Indistinguishable
-Fortran implementation of bridge change-of-measure (BCM) and path-integral (PI) techniques for inference in SDEs. These codes were used to generate the plots in Ref. [1].
+Fortran implementation of bridge change-of-measure (BCM) and path-integral (PI) techniques for inference in SDEs. 
+
+These codes were used to generate the plots in Ref. [1].
 
 **A Python implementation of these methods is under construction and will be referenced here.**
 
