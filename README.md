@@ -29,7 +29,7 @@ Data rights belong to the parties responsible for data acquisition.
 Any use or distribution of the data should be accompanied by citation of the original data sources (see below) and discussed with the parties responsible for data acquisition.
 
 * **GH_twizzers.dat** Optical Twizzers data. Miguel Ibañez García and Raúl A. Rica, University of Granada. Ref. [2]
-* **GH_BCI** Barro Colorado Island data. Ref. [3]
+* **GH_BCI** Barro Colorado Island (forest) data. Ref. [3]
 
 ## License
 This project is shared for **academic and research purposes**. 
