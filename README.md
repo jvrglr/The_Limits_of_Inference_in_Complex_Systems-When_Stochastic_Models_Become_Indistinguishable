@@ -21,6 +21,7 @@ These codes were used to generate the plots in Ref. [1].
 * **GH_estimator_of_propagator_BCM.f90**: Estimate propagator using BCM in one transition (Fig.4)
 * **GH_model_distinguishability_EN_DE_bridge_CM**: Generate synthetic data and compute model probability using BCM method (Fig. 5).
 * **GH_model_distinguishability_EN_DE_PI.f90**: Generate synthetic data and compute model probability using BCM method (Fig. 5).
+* **GH_model_distinguishability_on_tweezers_data_w_PI.f90**: Compare models using PI approximation of likelihood in Optical Twizzers data (Fig. 6).
 
 ## Data
 * **GH_twizzers.dat** Optical Twizzers data (see License for use). 
