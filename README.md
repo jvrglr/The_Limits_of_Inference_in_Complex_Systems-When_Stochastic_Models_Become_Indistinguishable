@@ -10,7 +10,7 @@ Fortran implementation of bridge change-of-measure (BCM) and path-integral (PI) 
 * EN: ENvironmental model (Eq.(2) in Ref.[1] with $\theta=1$).
 * CP: Contact process (Eq.(A1) in Ref.[1]).
   
-## Code structure
+## Codes
 * **M_declarations.f90**: Define public variables $x$, $t$, $D$, $k$ and $\mu$ to be used in the rest of modules. $x$, and $t$ are used in functions and subroutines to characterize the process at time $t$. $D$, $k$ and $\mu$ are parameters of the models (see Eqs. (1) and (2) in Ref. [1]).
 * **M_subroutines.f90**: Main script containing codes for BCM and PI inference methods.
 * **M_functions.f90**: Mathematical functions used in the main codes.
