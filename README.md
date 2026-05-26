@@ -50,7 +50,7 @@ Data rights belong to the parties responsible for data acquisition. Any use or d
 }
 ```
 
-## Reference
+## References
 
 [1] Aguilar J., Muñoz M.A., Azaele S. Phys. Rev. X (2026). 10.1103/tmkr-9kl2
 
