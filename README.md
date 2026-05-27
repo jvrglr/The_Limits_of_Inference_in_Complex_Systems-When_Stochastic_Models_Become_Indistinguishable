@@ -22,6 +22,7 @@ These codes were used to generate the plots in Ref. [1].
 * **GH_model_distinguishability_EN_DE_bridge_CM**: Generate synthetic data and compute model probability using BCM method (Fig. 5).
 * **GH_model_distinguishability_EN_DE_PI.f90**: Generate synthetic data and compute model probability using BCM method (Fig. 5).
 * **GH_model_distinguishability_on_tweezers_data_w_PI.f90**: Compare models using PI approximation of likelihood in Optical Twizzers data (Fig. 6).
+* **GH_model_distinguishability_on_BCI_data_w_BCM.f90**: Compare models using BCM estimation of likelihood in BCI data (Fig. 6).
 
 ## Data
 Data rights belong to the parties responsible for data acquisition. 
