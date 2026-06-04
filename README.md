@@ -37,10 +37,6 @@ This project is shared for **academic and research purposes**.
 
 The codes are free to use, redistribute, modify, and share for research purposes, provided that proper credit is given to the authors through citation of [1].
 
-
-
-**Optical twizzers data:** 
-
 ## Citation
 
 ```
