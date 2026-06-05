@@ -30,7 +30,8 @@ Data rights belong to the parties responsible for data acquisition.
 Any use or distribution of the data should be accompanied by citation of the original data sources (see below) and discussed with the parties responsible for data acquisition.
 
 * **GH_twizzers.dat** Optical Twizzers data. Miguel Ibañez García and Raúl A. Rica, University of Granada. Ref. [2]
-* **GH_BCI** Barro Colorado Island (forest) data. Ref. [3]
+* **GH_BCI** Barro Colorado Island (forest) data for all species from 1995 to 2015 extracted from Ref. [3]
+* **GH_X** Extracted from the top 10 most cited hashtags within the events Brexit, Panamapapers, Nepalearthquake, Ferguson, Ebola and Euro2012 from ref. [4] that passed the augmented Dickey–Fuller stationarity test.
 
 ## License
 This project is shared for **academic and research purposes**. 
@@ -60,3 +61,5 @@ The codes are free to use, redistribute, modify, and share for research purposes
 [2] M. Ibáñez, C. Dieball, A. Lasanta, A. Godec & R. A. Rica  Nat. Phys. 20, 135–141 (2024).  https://doi.org/10.1038/s41567-023-02269-z
 
 [3] Condit R., Perez, R., Aguilar, S., Lao, S., Foster, R., Hubbell, S.P. (2019). [https://doi.org/10.15146/5xcp-0d46.](https://datadryad.org/dataset/doi:10.15146/5xcp-0d46)
+
+[4] Zubiaga, A. (2018), Journal of the Association for Information Science and Technology, 69: 974-984. [10.1002/asi.24026](https://doi.org/10.1002/asi.24026)
