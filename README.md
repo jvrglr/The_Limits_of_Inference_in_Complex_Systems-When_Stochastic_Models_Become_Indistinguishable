@@ -65,4 +65,4 @@ The codes are free to use, redistribute, modify, and share for research purposes
 
 [4] Zubiaga, A. (2018), Journal of the Association for Information Science and Technology, 69: 974-984. [doi:10.1002/asi.24026](https://doi.org/10.1002/asi.24026)
 
-[5] Caporaso JG, Lauber CL, Costello EK, Berg-Lyons D, Gonzalez A, Stombaugh J, Knights D, Gajer P, Ravel J, Fierer N, Gordon JI, Knight R. Moving pictures of the human microbiome. Genome Biol. 2011;12(5):R50. [doi:10.1186/gb-2011-12-5-r50.](https://pmc.ncbi.nlm.nih.gov/articles/PMC3271711/)
+[5] Caporaso JG, Lauber CL, Costello EK, Berg-Lyons D, Gonzalez A, Stombaugh J, Knights D, Gajer P, Ravel J, Fierer N, Gordon JI, Knight R.  Genome Biol. 2011;12(5):R50. [doi:10.1186/gb-2011-12-5-r50.](https://pmc.ncbi.nlm.nih.gov/articles/PMC3271711/)
