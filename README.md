@@ -31,7 +31,8 @@ Any use or distribution of the data should be accompanied by citation of the ori
 
 * **GH_twizzers.dat** Optical Twizzers data. Miguel Ibañez García and Raúl A. Rica, University of Granada. Ref. [2]
 * **GH_BCI** Barro Colorado Island (forest) data for all species from 1995 to 2015 extracted from Ref. [3]
-* **GH_X** Extracted from the top 10 most cited hashtags within the events Brexit, Panamapapers, Nepalearthquake, Ferguson, Ebola and Euro2012 from ref. [4] that passed the augmented Dickey–Fuller stationarity test.
+* **GH_X** Social data of hastag citations extracted from the top 10 most cited hashtags within the events Brexit, Panamapapers, Nepalearthquake, Ferguson, Ebola and Euro2012 from ref. [4] that passed the augmented Dickey–Fuller stationarity test.
+* **GH_micro** Relative abundance microbiome data extracted from ref. [5] using all OTUs and all sites in individuals M3 and F4 that pass the augmented Dickey–Fuller stationarity and correlation tests.
 
 ## License
 This project is shared for **academic and research purposes**. 
@@ -56,10 +57,12 @@ The codes are free to use, redistribute, modify, and share for research purposes
 
 ## References
 
-[1] Aguilar J., Muñoz M.A., Azaele S. Phys. Rev. X (2026). [10.1103/tmkr-9kl2](https://doi.org/10.1103/tmkr-9kl2)
+[1] Aguilar J., Muñoz M.A., Azaele S. Phys. Rev. X (2026). [doi:10.1103/tmkr-9kl2](https://doi.org/10.1103/tmkr-9kl2)
 
-[2] M. Ibáñez, C. Dieball, A. Lasanta, A. Godec & R. A. Rica  Nat. Phys. 20, 135–141 (2024).  https://doi.org/10.1038/s41567-023-02269-z
+[2] M. Ibáñez, C. Dieball, A. Lasanta, A. Godec & R. A. Rica  Nat. Phys. 20, 135–141 (2024).  [doi:10.1038/s41567-023-02269-z](https://doi.org/10.1038/s41567-023-02269-z)
 
-[3] Condit R., Perez, R., Aguilar, S., Lao, S., Foster, R., Hubbell, S.P. (2019). [https://doi.org/10.15146/5xcp-0d46.](https://datadryad.org/dataset/doi:10.15146/5xcp-0d46)
+[3] Condit R., Perez, R., Aguilar, S., Lao, S., Foster, R., Hubbell, S.P. (2019). [doi:10.15146/5xcp-0d46.](https://datadryad.org/dataset/doi:10.15146/5xcp-0d46)
 
-[4] Zubiaga, A. (2018), Journal of the Association for Information Science and Technology, 69: 974-984. [10.1002/asi.24026](https://doi.org/10.1002/asi.24026)
+[4] Zubiaga, A. (2018), Journal of the Association for Information Science and Technology, 69: 974-984. [doi:10.1002/asi.24026](https://doi.org/10.1002/asi.24026)
+
+[5] Caporaso JG, Lauber CL, Costello EK, Berg-Lyons D, Gonzalez A, Stombaugh J, Knights D, Gajer P, Ravel J, Fierer N, Gordon JI, Knight R. Moving pictures of the human microbiome. Genome Biol. 2011;12(5):R50. [doi:10.1186/gb-2011-12-5-r50.](https://pmc.ncbi.nlm.nih.gov/articles/PMC3271711/)
